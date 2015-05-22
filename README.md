@@ -1,5 +1,5 @@
 # touch-trails
-Generate textures with ghost trails for use with multitouch and mobile devices in Three.js. Touch points leave trails in a texture map that can be used in other materials or shaders. 
+Examples for ghosted touch trails on mobile devices in Three.js. Touch points leave trails in a texture map that can be used in other materials or shaders. 
 
 ##Examples
 
