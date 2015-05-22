@@ -4,6 +4,8 @@ Generate textures with ghost trails for use with touch devices in Three.js. Touc
 Examples
 
 http://throbbingpixel.com/touch-trails
+![alt tag](http://throbbingpixel/touch-trails/touch.jpg)
 
 http://throbbingpixel.com/touch-trails/displace.html
+![alt tag](http://throbbingpixel/touch-trails/chimi.jpg)
 
