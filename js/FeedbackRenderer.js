@@ -1,13 +1,7 @@
 
 FeedbackRenderer = function ( params ){
 
-	_.defaults( params, {
-		size: 512,
-		format: THREE.RGBFormat,
-		uniforms: {}
-	})
-
-	this.size 					= params.size
+	this.size 					= params.size || 512
   this.uniforms 			= params.uniforms
   this.vertexShader 	= params.vertexShader
   this.fragmentShader = params.fragmentShader
